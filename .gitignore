@@ -1,6 +1,7 @@
 # custom stuff
 *.pkl
 data
+processed_celeba_small
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
